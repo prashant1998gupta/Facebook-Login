@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1060057458415",
+    "project_id": "metaspacechain-8826d",
+    "storage_bucket": "metaspacechain-8826d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060057458415:android:10a7e2d73a676bb0545d1a",
+        "android_client_info": {
+          "package_name": "com.MetaspaceTechnologiesPrivateLimited.Metaspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060057458415-g5g819sjd7vn30rmtjlsrgrup5sv55j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA01UIc4cdpQEFWHVt-XQam9W6pCJPVOMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060057458415-g5g819sjd7vn30rmtjlsrgrup5sv55j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060057458415:android:0595398aa792ec1b545d1a",
+        "android_client_info": {
+          "package_name": "com.metaspaceTest.FacebookWithFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060057458415-g5g819sjd7vn30rmtjlsrgrup5sv55j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA01UIc4cdpQEFWHVt-XQam9W6pCJPVOMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060057458415-g5g819sjd7vn30rmtjlsrgrup5sv55j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
