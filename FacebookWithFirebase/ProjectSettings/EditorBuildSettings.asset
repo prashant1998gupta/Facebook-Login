@@ -8,13 +8,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Main.unity
     guid: 37eb17e592c5ef44796c4b80626e7d32
-  - enabled: 1
+  - enabled: 0
     path: Assets/FacebookSDK/Examples/MainMenu.unity
     guid: 7c38a8c9adc9d5c4b869612e4033ead8
-  - enabled: 1
+  - enabled: 0
     path: Assets/FacebookSDK/Examples/Pay.unity
     guid: 3ee189cdb21ea4bdb9d7022a0780c44c
-  - enabled: 1
+  - enabled: 0
     path: Assets/FacebookSDK/Examples/LogView.unity
     guid: c07ff0bf6bea74c2eb681ac0cae44265
+  - enabled: 1
+    path: Assets/FirebaseAuth/Scenes/FirebaseAuthDemo.unity
+    guid: f44ec5b1b4bc2774bbff8bc118674b3d
   m_configObjects: {}
